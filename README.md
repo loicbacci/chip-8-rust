@@ -10,4 +10,4 @@ Chip-8 emulator written in Rust.
 
 ## Build requirements
 
-sdl2 needs to be installed on your machine.
+sdl2 needs to be installed on the machine.
